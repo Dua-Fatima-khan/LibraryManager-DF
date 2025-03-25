@@ -95,3 +95,12 @@ elif menu == "Statistics":
     st.write(f"📚 Total Books: {total_books}")
     st.write(f"✅ Books Read: {read_books}")
     st.write(f"📖 Percentage Read: {percentage_read:.2f}%")
+    # footer
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("""
+<div style="text-align: center;">
+    <small>Built with ❤️ by Dua Fatima</small><br>
+    <small>Copyright © 2023 - All Rights Reserved</small>
+</div>
+""", unsafe_allow_html=True)
