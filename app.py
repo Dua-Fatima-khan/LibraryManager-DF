@@ -101,6 +101,6 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <div style="text-align: center;">
     <small>Built with ❤️ by Dua Fatima</small><br>
-    <small>Copyright © 2023 - All Rights Reserved</small>
+    <small>Copyright © 2025- All Rights Reserved</small>
 </div>
 """, unsafe_allow_html=True)
